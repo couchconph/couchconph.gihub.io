@@ -1,0 +1,7 @@
+*.gz
+*.log
+*.db
+.vscode
+/php
+corda-tools-network-bootstrapper*.jar
+clients*.jar
